@@ -1,6 +1,6 @@
 # The Running Professor
 
-![The Running Professor Banner](1763368656384.png)
+![The Running Professor Banner](1763368656384.jpeg)
 
 > **"The tools change, the first principles don't. Whether navigating an automated engineering pipeline, pacing an endurance route, or cultivating soil—true mastery requires patience, structural depth, and time."**
 
